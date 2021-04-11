@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--    xmlns:tools="http://schemas.android.com/tools"-->
+<!--    android:layout_gravity="center"-->
+<!--    android:background="@android:color/transparent"-->
+<!--    android:layout_width="80dp"-->
+<!--    android:layout_height="80dp">-->
+
+<ImageView android:padding="8dp"
+    android:layout_gravity="center"
+    android:id="@+id/stickerLAV"
+    android:layout_width="80dp"
+    android:layout_height="80dp"
+    xmlns:android="http://schemas.android.com/apk/res/android" />
+<!--    <ImageView-->
+<!--        android:layout_marginEnd="4dp"-->
+<!--        android:layout_marginBottom="4dp"-->
+<!--        android:layout_gravity="end|bottom"-->
+<!--        android:layout_width="@dimen/_13mdp"-->
+<!--        android:layout_height="@dimen/_13mdp"-->
+<!--        android:adjustViewBounds="true"-->
+<!--        android:src="@drawable/play"/>-->
+
+<!--    <com.airbnb.lottie.LottieAnimationView-->
+<!--        android:layout_gravity="center"-->
+<!--        android:id="@+id/stickerLAV"-->
+<!--        android:layout_width="64dp"-->
+<!--        android:layout_height="64dp"-->
+<!--        app:lottie_autoPlay="false"-->
+<!--        app:lottie_loop="true"/>-->
+
+<!--    &lt;!&ndash;        android:src="@drawable/sticker_izsibgaq"/>&ndash;&gt;-->
+
+
+<!--    <TextView-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="match_parent"-->
+<!--        android:textAlignment=""-->
+<!--        />-->
+
+<!--</FrameLayout>-->
